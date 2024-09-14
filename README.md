@@ -1,6 +1,6 @@
 # Halo semua! I'am fathur
 I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms.
-
+##
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
 
@@ -13,7 +13,7 @@ JavaScript   45 mins         ███████░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+##
 ### Connect with me :smiley:
 <a href="#">
   <img align="left" alt="Vedant Jajoo Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
@@ -36,7 +36,7 @@ JavaScript   45 mins         ███████░░░░░░░░░░
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
-
+##
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
 
