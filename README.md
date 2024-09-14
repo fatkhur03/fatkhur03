@@ -1,18 +1,36 @@
-# Halo semua! 
+# Halo semua! Iam fathur
+I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms.
 
-Perkenalkan nama saya **Fathur**.<br>
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
 
-Saya seorang **Mahasiswa** di [Nurul Fikri](https://nurulfikri.ac.id/).<br>
+```txt
+TypeScript   1 hr 25 mins    ███████████████████████░░   92.30 %
+Bash         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+HTML         1 hr            ████████████░░░░░░░░░░░░░   68.10 %
+JavaScript   45 mins         ███████░░░░░░░░░░░░░░░░░░  45.05 %
+```
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Nurul Fikri](https://nurulfikri.ac.id/).<br>
+<!--END_SECTION:waka-->
 
-Saya menjadi mahasiswa sejak 2022.<br>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/m-%E2%80%8Efatkhurrohman-780829241/)ku ya.
+<a herf= "https://lynk.id/fatkhurrhn/s/5oqdl3z" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/fatkhur03">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+🚧 **my todoist stats:**
+<!-- TODO-IST:START -->
+🏆  8,004 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 673 tasks so far           
+⏳  Longest streak is 10 days
+<!-- TODO-IST:END -->
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+
+
+
