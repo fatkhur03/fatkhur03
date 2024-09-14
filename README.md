@@ -18,18 +18,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a herf= "https://lynk.id/fatkhurrhn/s/5oqdl3z" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
 
-
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 
 
