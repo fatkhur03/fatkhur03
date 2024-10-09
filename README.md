@@ -2,6 +2,21 @@
 
 I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms.
 
+<div align="left">
+  <a href="https://www.linkedin.com/in/mfatkhurrohman/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/story.thur/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
+  <a href="https://www.youtube.com/@/?sub_confirmation=1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
 ## 📝 My Resume:
 
 You can find my resume [here](https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing). update May 25, 2024
@@ -33,31 +48,16 @@ You can find my resume [here](https://drive.google.com/file/d/1T96IuSPGw_c2pvHDb
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="41" alt="gitlab logo"  />
 </div>
+<br clear="both">
 
-## 💬 Let's Connect:
-
+## 📌 My Git Commits:
 <div align="left">
-  <a href="https://www.linkedin.com/in/mfatkhurrohman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/story.thur/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@/?sub_confirmation=1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
-
-
-##
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhur03&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+  <br>
+<p align="center"> <img height="235em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
+  <img height="235em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
 
   ## 👀 Profile View:
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/fatkhur03/count.svg"/>
 </div>
