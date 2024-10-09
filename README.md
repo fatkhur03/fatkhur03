@@ -1,6 +1,6 @@
 # Hi 👋! I'm Fathur
 
-I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms.
+I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms. You can find my resume <a href="https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing" target="_blank">Here</a>. update May 25, 2024
 
 <a href="https://www.linkedin.com/in/mfatkhurrohman/" target="_blank">
   <img align="left" alt="linkedin" width="21px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />
@@ -18,11 +18,7 @@ I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrate
   <img align="left" alt="Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
   <br>
-
-## 📝 My Resume:
-
-You can find my resume <a href="https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing" target="_blank">Here</a>. update May 25, 2024
-  
+ 
 ## 💻 Technical Skills:
 
 - **Programming Languages:** SQL, PostgreSQL
