@@ -1,5 +1,11 @@
-# Halo semua! I'am fathur
+# Hi 👋! I'm Fathur
+
 I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms.
+
+## 📝 My Resume:
+
+- You can find my resume [here](https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing). update May 25, 2024
+  
 ##
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
