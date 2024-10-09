@@ -2,20 +2,22 @@
 
 I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrated Technology College. I have a great passion in technology and always want to follow the latest developments in this world. In addition, I also have an interest in creating creative content on social media. I enjoy making educational videos about technology, sharing tips and tricks, and also exploring various new applications and platforms.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/mfatkhurrohman/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/story.thur/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.youtube.com/@/?sub_confirmation=1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/mfatkhurrohman/" target="_blank">
+  <img align="left" alt="linkedin" width="21px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" />
+</a>
+<a href="https://www.instagram.com/story.thur/" target="_blank">
+  <img align="left" alt="Instagram" width="21px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="facebook" width="21px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" />
+</a>
+<a href="https://www.youtube.com/@/?sub_confirmation=1/">
+  <img align="left" alt="Youtube" width="21px" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" />
+</a>
+<a href="#">
+  <img align="left" alt="Medium" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+  <br>
 
 ## 📝 My Resume:
 
