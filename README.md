@@ -56,8 +56,8 @@ You can find my resume [here](https://drive.google.com/file/d/1T96IuSPGw_c2pvHDb
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fatkhur03&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
   <br>
-<p align="center"> <img height="235em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
-  <img height="235em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
 
   ## 👀 Profile View:
 <div align="center">
