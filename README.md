@@ -21,7 +21,7 @@ I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrate
 
 ## 📝 My Resume:
 
-You can find my resume <a herf="https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing target="_blank">Here</a>. update May 25, 2024
+You can find my resume <a href="https://drive.google.com/file/d/1T96IuSPGw_c2pvHDbXcGErriir_eRNFt/view?usp=sharing" target="_blank">Here</a>. update May 25, 2024
   
 ## 💻 Technical Skills:
 
