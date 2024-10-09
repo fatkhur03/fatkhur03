@@ -57,10 +57,6 @@ I am a student majoring in Information Systems (IS) at the Nurul Fikri Integrate
 <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fatkhur03&show_icons=true&theme=gotham" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fatkhur03&layout=compact&langs_count=8&theme=algolia"/>
 
-  ## 👀 Profile View:
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fatkhur03/count.svg"/>
-</div>
 
 
 
