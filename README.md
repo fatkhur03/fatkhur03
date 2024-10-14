@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=fatkhur03&icon=2&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatkhur03&label=Profile%20views&color=0e75b6&style=flat" alt="tkirtan" /> </p>
 
 # Hi 👋! I'm Fathur
 
